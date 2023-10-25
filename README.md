@@ -1,7 +1,6 @@
-# Programmazione-Java
-
-* there might be errors (quasi sicuramente)
-* i commenti sono fatti a caso (non ho ancora studiato la teoria)
-* per chiarimenti book an appointment 
-
-that's all :3
+Esercitazione sulle basi del linguaggio Java:
+* Inizializzazione ed assegnamento delle variabili
+* Selezione e Iterazione
+* Invocazione dei metodi, parametri e valori di ritorno
+* Input via ARGS e STDIN, Output via STDOUT
+* Array e ArrayList
